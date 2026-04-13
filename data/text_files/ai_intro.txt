@@ -1,0 +1,10 @@
+ Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence.
+It involves technologies such as machine learning, natural language processing, and computer vision.
+AI systems can analyze large amounts of data, recognize patterns, and make decisions.
+These systems are used in many areas including healthcare, education, finance, and transportation.
+Examples of AI applications include virtual assistants, recommendation systems, and self-driving cars.
+AI helps improve efficiency, accuracy, and automation in many industries.
+It also supports problem-solving and predictive analysis.
+As technology advances, AI continues to become more powerful and widely used.
+However, it also raises important ethical and social considerations.
+Overall, AI is transforming the way humans interact with technology and the world.
